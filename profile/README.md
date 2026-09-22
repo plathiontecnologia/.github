@@ -67,9 +67,12 @@ A Plathion desenvolve **gestão empresarial em camadas**: em vez de vender um si
 
 ## 👤 Fundador
 
+**Helder Cley** é desenvolvedor full stack e fundador da Plathion, com mais de 15 anos de experiência em desenvolvimento de software e mestrado em Engenharia de Software. Ao longo da carreira, construiu produtos de ponta a ponta — back-end, front-end, infraestrutura e automação — experiência que moldou a proposta da Plathion: entregar gestão empresarial em camadas completas, não só sistemas isolados.
+
 <div align="center">
 
-[![Helder Cley](https://img.shields.io/badge/Helder_Cley-helder--cley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helder-cley)
+[![GitHub](https://img.shields.io/badge/GitHub-helder--cley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helder-cley)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-almeida-3a49b835)
 
 </div>
 
