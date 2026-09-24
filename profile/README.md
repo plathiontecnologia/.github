@@ -9,7 +9,7 @@ COMO USAR ESTE ARQUIVO (perfil da ORGANIZAÇÃO plathiontecnologia)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PlathionTecnologia/.github/main/profile/original.png" width="140" alt="Plathion" />
+<img src="https://raw.githubusercontent.com/PlathionTecnologia/.github/main/profile/Original.png" width="140" alt="Plathion" />
 
 # Plathion
 
