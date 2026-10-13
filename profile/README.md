@@ -1,25 +1,15 @@
-<!--
-COMO USAR ESTE ARQUIVO (perfil da ORGANIZAÇÃO plathiontecnologia)
-1. Dentro da organização, crie um repositório PÚBLICO chamado EXATAMENTE ".github".
-2. Salve este conteúdo como "profile/README.md" (dentro de uma pasta "profile" — essa regra
-   da pasta é só pra organização; pra usuário pessoal é direto na raiz, como fizemos no seu).
-3. Commit. O conteúdo aparece automaticamente no topo do github.com/plathiontecnologia.
-4. Troque os placeholders [ ] pelos links reais assim que existirem.
--->
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/PlathionTecnologia/.github/main/profile/Original.png" width="140" alt="Plathion" />
 
 # Plathion
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=650&lines=Gest%C3%A3o+empresarial+em+camadas;Sistema+%7C+BI+%7C+Mobile+%7C+Site;Infraestrutura+%7C+WhatsApp+%2B+IA;Suporte+f%C3%ADsico+%7C+Impress%C3%A3o+3D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=650&lines=Gest%C3%A3o+empresarial+em+camadas;Sistema+%7C+BI+%7C+Mobile+%7C+Site;Infraestrutura+%7C+WhatsApp+%2B+IA;Suporte+f%C3%ADsico+e+infraestrutura+local" alt="Typing SVG" />
 
-[![Site](https://img.shields.io/badge/site-plathion.com-1a1a1a?style=for-the-badge)](https://www.plathion.com)
+[![Site](https://img.shields.io/badge/site-plathiontecnologia.com.br-1a1a1a?style=for-the-badge)](https://www.plathiontecnologia.com.br)
 [![E-mail](https://img.shields.io/badge/e--mail-diretoria%40plathion.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diretoria@plathion.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_DA_EMPRESA])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([INSTAGRAM_DA_EMPRESA])
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([LINK_WHATSAPP])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/plathiontecnologia)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@plathiontecnologia)
 
 ![Profile views](https://komarev.com/ghpvc/?username=plathiontecnologia&color=f7941d&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
 
@@ -40,8 +30,7 @@ A Plathion desenvolve **gestão empresarial em camadas**: em vez de vender um si
 | 📱 **Mobile** | Aplicativos para operação e atendimento em campo |
 | 🌐 **Site** | Presença institucional e comercial na web |
 | ☁️ **Infraestrutura** | Servidores, redes e ambientes em produção |
-| 💬 **WhatsApp + IA (n8n)** | Atendimento e automações via WhatsApp orquestradas com IA |
-| 🖨️ **Impressão 3D** | Suporte físico para infraestrutura e marketing (chaveiros, brindes, peças) |
+| 💬 **WhatsApp + IA** | Atendimento e automações pela API oficial do WhatsApp, com IA |
 
 > Cada pacote é modular — o cliente monta a combinação que faz sentido para o momento da empresa dele.
 
@@ -61,17 +50,14 @@ A Plathion desenvolve **gestão empresarial em camadas**: em vez de vender um si
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white)
-![Impressão 3D](https://img.shields.io/badge/🖨️_Impressão_3D-F7941D?style=for-the-badge&logoColor=white)
 
 </div>
 
