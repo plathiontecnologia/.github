@@ -1,0 +1,36 @@
+name: Plano de pacote
+description: Plano de um pacote de especificação (vira a issue principal; cada spec vira sub-issue)
+title: "[00-00] Nome do pacote"
+labels: ["plano"]
+projects: ["plathiontecnologia/1"]
+body:
+  - type: input
+    id: pacote
+    attributes:
+      label: Pacote
+      description: Caminho do arquivo do pacote (fonte da especificação)
+      placeholder: docs/specs/00-fundacao/00-03-empresa-filial-e-configuracoes.md
+    validations:
+      required: true
+  - type: textarea
+    id: plano
+    attributes:
+      label: Plano
+      description: Resumo do plano e a lista das specs (cada uma vira sub-issue)
+    validations:
+      required: true
+  - type: dropdown
+    id: dados
+    attributes:
+      label: Estrutura de dados
+      options:
+        - Não se aplica
+        - Pendente (esperando a aprovação do Helder)
+        - Aprovada pelo Helder
+    validations:
+      required: true
+  - type: textarea
+    id: agentes
+    attributes:
+      label: Agentes que revisam
+      description: Especialistas acionados pela área do pacote

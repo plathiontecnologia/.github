@@ -1,0 +1,27 @@
+name: Spec
+description: Parte entregável de um plano (sub-issue da issue do plano)
+title: "[00-00.1] Nome da spec"
+labels: ["spec"]
+projects: ["plathiontecnologia/1"]
+body:
+  - type: input
+    id: plano
+    attributes:
+      label: Plano
+      description: Número da issue do plano (a spec é ligada a ela como sub-issue)
+      placeholder: "#12"
+    validations:
+      required: true
+  - type: textarea
+    id: entrega
+    attributes:
+      label: O que entrega
+    validations:
+      required: true
+  - type: textarea
+    id: pronto
+    attributes:
+      label: Pronto quando
+      description: Critérios de aceite; vale também a definição de pronto do projeto
+    validations:
+      required: true

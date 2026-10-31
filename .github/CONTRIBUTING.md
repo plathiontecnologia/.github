@@ -25,13 +25,13 @@ refactor: reorganiza camada de serviços
 chore: atualiza dependências
 ```
 
-## Pull Requests
+## Demandas e Pull Requests
 
-1. Abra a branch a partir da `main` atualizada.
-2. Faça commits pequenos e descritivos.
-3. Abra o Pull Request preenchendo o template.
-4. Garanta que os checks automáticos (lint, testes) passam antes de pedir revisão.
-5. Merge por **squash**, mantendo o histórico da `main` limpo.
+1. Toda demanda fica no quadro [Plathion · Demandas](https://github.com/orgs/plathiontecnologia/projects/1): o **plano** de um pacote é uma issue, cada **spec** é uma sub-issue; fora de pacote, use os modelos **Defeito** ou **Ajuste**.
+2. Abra a branch a partir da `main` atualizada (`feat/`, `fix/`, `docs/`, `chore/`).
+3. Um commit por entrega, com a mensagem já no formato do modelo de PR (Resumo, O que entra, Decisões e base, Como conferir): com um commit só, o GitHub preenche o PR sozinho.
+4. O PR fecha a demanda com `Closes #N` e só vai para revisão com os checks automáticos verdes.
+5. O merge é sempre feito pelo Helder.
 
 ## Dúvidas
 
