@@ -1,22 +1,28 @@
-## Descrição
+<!-- Padrão da Plathion. Com um commit só, a mensagem do commit já preenche este texto. -->
 
-<!-- Explique o que este PR muda e por quê. -->
+## Resumo
 
-## Tipo de mudança
+<!-- O que muda e por quê, em português simples. -->
 
-- [ ] Nova funcionalidade
-- [ ] Correção de bug
-- [ ] Refatoração (sem mudança de comportamento)
-- [ ] Documentação
-- [ ] Infraestrutura / configuração
+## O que entra
 
-## Como testar
+<!-- Lista do que foi feito, por arquivo ou por parte. -->
 
-<!-- Passos para validar a mudança. -->
+## Decisões e base
+
+<!-- Cada decisão com quem decidiu (Helder ou escolha técnica do Claude) e a base: lei, análise, ADR ou padrão de mercado. -->
+
+## Como conferir
+
+<!-- Passos para o Helder validar. -->
+
+## Demanda
+
+<!-- Closes #N (a sub-issue da spec ou a issue do ajuste). Sem demanda, explique por quê. -->
 
 ## Checklist
 
-- [ ] O código segue o padrão do projeto
-- [ ] Testei localmente antes de abrir o PR
-- [ ] Atualizei a documentação, se necessário
-- [ ] Não deixei segredos, chaves ou dados sensíveis no código
+- [ ] CI verde (formatação, lint, tipos, testes, build)
+- [ ] Análise e documentação atualizadas, se a regra mudou
+- [ ] Sem segredos, chaves ou dados pessoais no código
+- [ ] Cada decisão diz quem decidiu

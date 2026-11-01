@@ -1,0 +1,16 @@
+name: Ajuste
+description: Melhoria pequena fora de um pacote (documentação, configuração, manutenção)
+title: "[Ajuste] "
+labels: ["ajuste"]
+projects: ["plathiontecnologia/1"]
+body:
+  - type: textarea
+    id: o-que
+    attributes:
+      label: O que ajustar e por quê
+    validations:
+      required: true
+  - type: textarea
+    id: conferir
+    attributes:
+      label: Como conferir
